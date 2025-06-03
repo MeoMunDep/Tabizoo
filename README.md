@@ -2,7 +2,7 @@
 
 > If you encounter any issues or have questions, feel free to reach out:
 
-> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux.)
+> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
 
 
 - Contact: [Link](t.me/MeoMunDep)
@@ -47,9 +47,10 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
   "limit": 100,
   "countdown": 300,
   "country_time": "en-US",
-  "delayEachAccount": [5, 8]
+  "delayEachAccount": [5, 8],
+  "referralCode": 6713068747,
+  "doTasks": true
 }
-
 ```
 
 ### 2. `datas.txt` 🗂️ - Get it from [here](https://t.me/KeoAirDropFreeNe/257/6879).
@@ -83,6 +84,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd tabizoo-main/tabi; node meomundep`
+> To run the bot, use the following command: `cd tabizoo; node meomundep`
 
 🎇Enjoy!
