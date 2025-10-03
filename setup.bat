@@ -38,11 +38,11 @@ echo Checking node_modules location...
 if exist "..\node_modules" (
     cd ..
     echo Installing/Updating dependencies in parent directory...
-    npm install user-agents axios colors https-proxy-agent socks-proxy-agent 
+    npm install user-agents axios meo-forkcy-colors meo-forkcy-utils meo-forkcy-logger meo-forkcy-proxy
     cd %~dp0
 ) else (
     echo Installing dependencies in current directory...
-    npm install user-agents axios colors https-proxy-agent socks-proxy-agent 
+    npm install user-agents axios meo-forkcy-colors meo-forkcy-utils meo-forkcy-logger meo-forkcy-proxy
 )
 echo.
 echo Dependencies installation completed!
@@ -55,10 +55,6 @@ echo Creating configuration files...
 if not exist datas.txt (
     type nul > datas.txt
     echo Created datas.txt
-)
-if not exist wallets.txt (
-    type nul > wallets.txt
-    echo Created wallets.txt
 )
 if not exist proxies.txt (
     type nul > proxies.txt
