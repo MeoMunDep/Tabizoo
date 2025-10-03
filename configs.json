@@ -1,8 +1,7 @@
 {
   "limit": 100,
   "countdown": 300,
-  "country_time": "en-US",
   "delayEachAccount": [5, 8],
-  "referralCode": 6713068747,
+  "referralCode": "",
   "doTasks": true
 }
