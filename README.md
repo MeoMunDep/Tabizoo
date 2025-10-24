@@ -9,7 +9,7 @@
 - Group: [Link](t.me/KeoAirDropFreeNe)
 - Channel: [Link](t.me/KeoAirDropFreeNee)
 
-> > > Help me with your referral [Link](https://t.me/tabizoobot/tabizoo?startapp=BEDETc)
+Help me with your referral [Link](https://t.me/tabizoobot/tabizoo?startapp=BEDETc)
 
 ## 🚀 Getting Started
 
